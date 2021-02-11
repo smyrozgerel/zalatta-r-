@@ -1,0 +1,129 @@
+body
+{
+    background-image: url(resim/bg.jpg);
+
+}
+.ana
+{
+    width: 1000px;
+    margin: auto;
+    background-color:white;
+}
+.logo
+{
+    background-image: url(resim/logo.png);
+    width: 189px;
+    height: 150px;
+   float: left;
+}
+.menuyeri
+{
+    background-image: url(resim/bgMenu.png);
+    width: 790px;
+    height: 40px;
+    float: left;
+    margin-top:55px ;
+}
+.menu 
+{
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+}
+.menu li
+{
+    float: left;
+}
+.menu a
+{
+    width: 92px;
+    height: 40px;
+    text-decoration: none;
+    display: block;
+    color: #077936;
+    line-height: 40px;
+    text-align: center;
+    margin-left: 20px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+}
+.sil{clear: both;}
+.banner
+{
+    background-image: url(resim/banner.jpg);
+    background-repeat: no-repeat;
+    width: 980px;
+    height: 303px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.bgslide
+{
+    background-image: url(resim/bgSlide.png);
+    width: 980px;
+    height: 12px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.cizgi
+{
+    background-image: url(resim/divider.png);
+    width: 980px;
+    height: 26px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.kutu1 
+{
+    width: 320px;
+    height: 200px;
+    background-color: #F4F0E4;
+    border-radius: 10px;
+    float: left;
+    margin-left: 10px;
+}
+.yazi
+{
+    width: 300px;
+    height: 40px;
+    line-height: 40px;
+    text-align: left;
+    border-bottom: 2px dashed black;
+    box-sizing: border-box;
+    margin: auto;
+}
+.yazi2
+{
+width: 300px;
+height: 160px;
+margin: auto;
+text-align: justify;
+margin-top: 10px;
+}
+.kutu2
+{
+   width: 300px;
+   height: 200px;
+   float: left;
+   margin-left: 10px;
+  background-image: url(resim/urun.png);
+}
+.kutu3 
+{
+   width: 340px;
+   height: 200px;
+   background-color: yellowgreen;
+   float: left;
+   margin-left: 10px;
+   background-image: url(resim/franchising.png);
+}
+.footer
+{
+    height: 50px;
+    line-height: 50px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-weight: bold;
+}
